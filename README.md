@@ -1,0 +1,1 @@
+This repository contains the complete R code workflow for the analyses presented in the manuscript, "From potential to reality: intrinsic niches and dispersal processes modulate the realization of species’ potential distributions under climate change."
